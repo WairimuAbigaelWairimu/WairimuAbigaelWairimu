@@ -60,3 +60,6 @@ I am a Sofware Developer and technical writer <img src="https://media.giphy.com/
 ---
 
 ### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

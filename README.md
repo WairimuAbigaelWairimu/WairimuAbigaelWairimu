@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About me:
-I am a Sofware Developer and technical writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Front-end Developer and technical writer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m contributing to frontend and backend development for building web applications.
 
 - :seedling: Exploring Technical Content Writing.

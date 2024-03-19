@@ -34,7 +34,7 @@ I am a Front-end Developer and technical writer <img src="https://media.giphy.co
   
 - :blue_heart: Organize tech events for my community.
 
-- :zap: I love Contribute to open-source.
+- :zap: I love contributing to open-source projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abby-maribe-397b02250/)
 
